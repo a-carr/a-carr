@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Network File Shares and Permissions</b>
-  - [Setting Up Permissions and Sharing Files](https://github.com/a-carr/osticket-prereqs)
+  - [Setting Up Permissions and Sharing Files](https://github.com/a-carr/Setting-Up-Permissions-and-Sharing-Files)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/a-carr/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
