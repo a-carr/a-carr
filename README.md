@@ -6,7 +6,7 @@
   - [Setting Up Permissions and Sharing Files](https://github.com/a-carr/Setting-Up-Permissions-and-Sharing-Files)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/a-carr/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/a-carr/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/a-carr/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
